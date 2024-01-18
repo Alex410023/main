@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "830E033E-9EB0-46D6-B2CE-54DF603F2095"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAC9E61C-6353-4AD7-A07E-9D4C6E734898"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2_4/Menu.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "Menu::task_1()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAC9E61C-6353-4AD7-A07E-9D4C6E734898 - aaacb0b880b45ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Menu::task_1()"
+                  moduleName = "2_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksey/C:C++/work/5%20sem/2_4/2_4/Menu.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "EAC9E61C-6353-4AD7-A07E-9D4C6E734898 - aaacb0b880b45a2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Menu::task_1()"
+                  moduleName = "2_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksey/C:C++/work/5%20sem/2_4/2_4/Menu.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "EAC9E61C-6353-4AD7-A07E-9D4C6E734898 - aaacb0b880b45ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Menu::task_1()"
+                  moduleName = "2_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksey/C:C++/work/5%20sem/2_4/2_4/Menu.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBDA9B66-F560-4D2E-952E-529BF26F386E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2_4/AEROFLOT.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "operator&gt;&gt;(in, AEROFLOT)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EBDA9B66-F560-4D2E-952E-529BF26F386E - cd55369a042e50ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "operator&gt;&gt;(std::__1::basic_istream&lt;char, std::__1::char_traits&lt;char&gt;&gt;&amp;, AEROFLOT&amp;)"
+                  moduleName = "2_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksey/C:C++/work/5%20sem/2_4/2_4/AEROFLOT.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "EBDA9B66-F560-4D2E-952E-529BF26F386E - cd55369a042e5025"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "operator&gt;&gt;(std::__1::basic_istream&lt;char, std::__1::char_traits&lt;char&gt;&gt;&amp;, AEROFLOT&amp;)"
+                  moduleName = "2_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksey/C:C++/work/5%20sem/2_4/2_4/AEROFLOT.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "EBDA9B66-F560-4D2E-952E-529BF26F386E - cd55369a042e5025"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "operator&gt;&gt;(std::__1::basic_istream&lt;char, std::__1::char_traits&lt;char&gt;&gt;&amp;, AEROFLOT&amp;)"
+                  moduleName = "2_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksey/C:C++/work/5%20sem/2_4/2_4/AEROFLOT.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ECA8121-DB91-4DCF-B650-A1AE719A0AE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2_4/AEROFLOT.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "operator+(flights, newFlight)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D91DE6ED-677D-43A8-A33A-2B5CC5BD5522"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2_4/Menu.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "Menu::task_1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89266100-E340-4BB6-8E89-F5F03CC9CF88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2_4/AEROFLOT.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "AEROFLOT::editFlight(flights, index)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8FA6D0B-B272-4CD8-957E-96CAAB7974BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2_4/AEROFLOT.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "AEROFLOT::editFlight(flights, index)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
