@@ -1,0 +1,8 @@
+Package: trajectory-viewer
+Version: 1.0
+Section: java
+Priority: optional
+Architecture: all
+Maintainer: Aleksey <email@example.com>
+Description: Trajectory Viewer Application
+ A Java-based application for viewing trajectory data.

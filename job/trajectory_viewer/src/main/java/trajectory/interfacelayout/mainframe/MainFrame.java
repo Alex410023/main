@@ -7,8 +7,9 @@ import trajectory.interfacelayout.mainframe.top.TopPanel;
 import java.awt.Rectangle;
 import java.awt.BorderLayout;
 import java.awt.GraphicsEnvironment;
+import java.util.Objects;
 
-import javax.swing.JFrame;
+import javax.swing.*;
 
 /**
  * The main frame of the application that contains the top panel and the content panel.
@@ -22,6 +23,14 @@ public class MainFrame extends JFrame {
         setExtendedState(JFrame.MAXIMIZED_BOTH);
         setTitle("Trajectory viewer");
         setLayout(new BorderLayout());
+
+        // Set the icon
+        try {
+            ImageIcon icon = new ImageIcon(Objects.requireNonNull(MainFrame.class.getResource("/trajectory-viewer.png")));
+            setIconImage(icon.getImage());
+        } catch (NullPointerException e) {
+            System.err.println("Icon resource not found: /trajectory-viewer.png");
+        }
 
         Rectangle graphicsDevice = GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds();
 
